@@ -5,6 +5,7 @@
 ## Planned in v2.0:
 - Scrapping proxies from other sites
 - Displaying info about how much proxies was loaded and its type
+- Displaying info about when was the latest update
 
 
 ## Planned in v3.0:
