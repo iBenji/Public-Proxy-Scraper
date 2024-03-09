@@ -1,0 +1,10 @@
+G:\GitRepos\PublicProxyScraper\PublicProxyScraper\bin\Release\PublicProxyScraper.exe.config
+G:\GitRepos\PublicProxyScraper\PublicProxyScraper\bin\Release\PublicProxyScraper.exe
+G:\GitRepos\PublicProxyScraper\PublicProxyScraper\bin\Release\PublicProxyScraper.pdb
+G:\GitRepos\PublicProxyScraper\PublicProxyScraper\obj\Release\PublicProxyScraper.csproj.AssemblyReference.cache
+G:\GitRepos\PublicProxyScraper\PublicProxyScraper\obj\Release\PublicProxyScraper.formMain.resources
+G:\GitRepos\PublicProxyScraper\PublicProxyScraper\obj\Release\PublicProxyScraper.Properties.Resources.resources
+G:\GitRepos\PublicProxyScraper\PublicProxyScraper\obj\Release\PublicProxyScraper.csproj.GenerateResource.cache
+G:\GitRepos\PublicProxyScraper\PublicProxyScraper\obj\Release\PublicProxyScraper.csproj.CoreCompileInputs.cache
+G:\GitRepos\PublicProxyScraper\PublicProxyScraper\obj\Release\PublicProxyScraper.exe
+G:\GitRepos\PublicProxyScraper\PublicProxyScraper\obj\Release\PublicProxyScraper.pdb
