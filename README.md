@@ -1,4 +1,4 @@
-![prev1](https://github.com/iBenji/Public-Proxy-Scraper/assets/6734985/ee0cc538-bc25-45db-8f86-de040c5bf861)
+![prev2](https://github.com/iBenji/Public-Proxy-Scraper/assets/6734985/d9267d02-2554-42ea-8d53-e1e65907d053)
 
 # Dont need to describe a lot, you can see yourself, just a little software for a lazy people :)
 
